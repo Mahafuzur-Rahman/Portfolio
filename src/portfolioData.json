@@ -1,0 +1,143 @@
+{
+  "name": "Mahafuzur Rahman",
+  "title": "Software Engineer & Web Developer",
+  "bio": "I am an enthusiastic Computer Science & Engineering student at AIUB. I specialize in building robust software solutions, scalable web applications, and resolving complex technical challenges.",
+  "aboutMe": "Hello! I am Mahafuzur Rahman, a motivated and dedicated Computer Science & Engineering student currently in my 11th semester at the American International University-Bangladesh (AIUB). I have built a solid foundation in software engineering, object-oriented programming, and database systems through my academic coursework and personal projects.\n\nI enjoy developing applications and strengthening my programming skills using Java, C++, C#, Python, JavaScript, HTML, CSS, and SQL. I am passionate about problem-solving, continuously learning new technologies, and building practical solutions that address real-world challenges.\n\nI am currently seeking a Software Engineer Internship where I can apply my technical knowledge, gain hands-on industry experience, collaborate with experienced professionals, and continue growing as a software developer.",
+  "avatarUrl": "https://i.imgur.com/lcYvBwa.png",
+  "education": [
+    {
+      "id": "edu-1",
+      "degree": "Bachelor of Science in Computer Science & Engineering (B.Sc. CSE)",
+      "institution": "American International University-Bangladesh (AIUB)",
+      "period": "2021 - Present (11th Semester Running)",
+      "result": "CGPA: 3.26 (Out of 4.00)",
+      "description": "Acquiring rigorous academic training in Computer Science fundamentals including Data Structures, Algorithms, Software Engineering, Database Management Systems, Object-Oriented Programming (Java, C#), and Web Technologies."
+    },
+    {
+      "id": "edu-2",
+      "degree": "Higher Secondary Certificate (HSC)",
+      "institution": "Board of Intermediate and Secondary Education, Dhaka Bangladesh",
+      "period": "2019 - 2021",
+      "result": "GPA: 4.50 (Science Group)",
+      "description": "Completed secondary science program with core subjects in Mathematics, Physics, Chemistry, and Information and Communication Technology (ICT)."
+    },
+    {
+      "id": "edu-3",
+      "degree": "Secondary School Certificate (SSC)",
+      "institution": "Board of Intermediate and Secondary Education, Dhaka Bangladesh",
+      "period": "2017 - 2019",
+      "result": "GPA: 3.94 (Science Group)",
+      "description": "Built strong foundation in secondary sciences, computer fundamentals, and mathematical problem-solving."
+    }
+  ],
+  "skills": [
+    {
+      "id": "cat-1",
+      "categoryName": "Programming Languages",
+      "skills": [
+        { "name": "Java", "percentage": 80 },
+        { "name": "C++", "percentage": 85 },
+        { "name": "C#", "percentage": 75 },
+        { "name": "Python", "percentage": 70 },
+        { "name": "C", "percentage": 75 }
+      ]
+    },
+    {
+      "id": "cat-2",
+      "categoryName": "Web & Databases",
+      "skills": [
+        { "name": "HTML5 & CSS3", "percentage": 90 },
+        { "name": "JavaScript (ES6+)", "percentage": 80 },
+        { "name": "TypeScript", "percentage": 75 },
+        { "name": "React.js / Tailwind CSS", "percentage": 85 },
+        { "name": "MySQL & SQL Server", "percentage": 80 }
+      ]
+    },
+    {
+      "id": "cat-3",
+      "categoryName": "Tools & Environments",
+      "skills": [
+        { "name": "Git & GitHub", "percentage": 85 },
+        { "name": "VS Code & Visual Studio", "percentage": 90 },
+        { "name": "Postman", "percentage": 80 },
+        { "name": "Firebase (Auth / Firestore)", "percentage": 75 },
+        { "name": "Command Line / Shell", "percentage": 75 }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "proj-1",
+      "title": "POS Management System",
+      "description": "A comprehensive point-of-sale desktop application built with C# and SQL Server to manage sales, products, and receipts.",
+      "longDescription": "The POS Management System is a corporate-grade desktop solution built using C# .NET and SQL Server database. It streamlines transactions for retail businesses, allowing cashiers to register sales, print receipts, and track customer details. It features administrative role controls, automated real-time stock deductions on checkout, low-stock warnings, and detailed charts displaying sales performance over time.",
+      "technologies": ["C#", "SQL Server", "Visual Studio", ".NET Windows Forms"],
+      "imageUrl": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?auto=format&fit=crop&q=80&w=600",
+      "githubUrl": "https://github.com/Mahafuzur-Rahman",
+      "category": "Desktop Application"
+    },
+    {
+      "id": "proj-2",
+      "title": "BloodConnectBD",
+      "description": "An emergency blood finding and notification platform connecting active donors with recipients.",
+      "longDescription": "BloodConnectBD is an interactive web platform designed to solve emergency blood requirements. Recipients can post urgent blood requests, which automatically alerts registered donors in the corresponding location. Users can search for blood donors by group and area using a streamlined dashboard. It features secure donor registration, emergency notifications, and availability management.",
+      "technologies": ["React.js", "HTML5", "CSS3", "JavaScript", "Tailwind CSS", "Firebase"],
+      "imageUrl": "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&q=80&w=600",
+      "liveUrl": "https://blood-connect-bd.example.com",
+      "githubUrl": "https://github.com/Mahafuzur-Rahman",
+      "category": "Web Application"
+    },
+    {
+      "id": "proj-3",
+      "title": "Smart Air Quality Control System",
+      "description": "An IoT system prototype that monitors environmental particulate matters and triggers air filtration automatically.",
+      "longDescription": "This Smart Air Quality Control System is a hardware-software co-designed IoT prototype aimed at modern environmental monitoring. It senses levels of CO2, dust particles, and temperature. The sensor readings are streamed via WebSockets to an intuitive dashboard. When pollutants cross safe thresholds, the system automatically activates a ventilation fan and an air filtration unit.",
+      "technologies": ["C++", "Python", "IoT Sensors", "WebSockets", "Arduino/ESP32"],
+      "imageUrl": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&q=80&w=600",
+      "githubUrl": "https://github.com/Mahafuzur-Rahman",
+      "category": "IoT & Systems"
+    }
+  ],
+  "experience": [
+    {
+      "id": "exp-1",
+      "role": "Volunteer",
+      "company": "Bangladesh Red Crescent Society",
+      "period": "2018 - 2020",
+      "description": "Actively contributed to humanitarian services, emergency disaster responses, and healthcare support campaigns.",
+      "bulletPoints": [
+        "Assisted in local humanitarian aid distribution and relief logistics during crisis situations.",
+        "Collaborated with diverse teams to conduct health and safety awareness campaigns.",
+        "Cultivated exceptional soft skills in problem-solving under pressure, teamwork, and crisis communication."
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "id": "cert-1",
+      "name": "Cisco IT Essentials",
+      "issuer": "Cisco Networking Academy",
+      "year": "27 Dec 2022"
+    }
+  ],
+  "languages": [
+    { "name": "Bengali", "proficiency": "Native" },
+    { "name": "English", "proficiency": "Professional Working" }
+  ],
+  "softSkills": [
+    "Problem Solving",
+    "Communication",
+    "Teamwork",
+    "Time Management",
+    "Critical Thinking",
+    "Adaptability"
+  ],
+  "contact": {
+    "email": "Mahfuz.r.bijoy@gmail.com",
+    "phone": "+880 1410080255",
+    "location": "Mirpur, Dhaka, Bangladesh",
+    "github": "https://github.com/Mahafuzur-Rahman",
+    "linkedin": "https://www.linkedin.com/in/mahafuzur-rahman-00367a28b/",
+    "twitter": "https://twitter.com/rjbijoy255"
+  }
+}

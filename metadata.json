@@ -1,0 +1,8 @@
+{
+  "name": "Mahafuzur Rahman - Portfolio",
+  "description": "An interactive computer science & software engineering portfolio website for Mahafuzur Rahman featuring projects, milestones, and a interactive CLI terminal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
